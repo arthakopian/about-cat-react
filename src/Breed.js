@@ -87,15 +87,3 @@ export default function Breed() {
     </div>
   )
 }
-
-
-
-
-// function setActiveListing(current) {
-//   const allBreeds = document.querySelectorAll('.breed-list li')
-//   allBreeds.forEach(breed => breed.classList.remove('active'))
-//   current.classList.add('active')
-// }
-
-
-
